@@ -1,0 +1,46 @@
+.Title{
+	font-family:segoe script;
+	text-align:center;
+	color:#250672;
+	font-size:60px;
+	font-weight:bold;
+	padding-top:2px;
+}
+.Body{
+	background:linear-gradient(290deg, #8C6DD7, #250772) fixed;
+}
+.gif{
+	position:absolute;
+	bottom:75px;
+	right:30px;
+	width:100x;
+	height:1px;
+	opacity:0.78;
+}
+table{
+	border-collapse:collapse;
+	width:65%;
+}
+.text-block{
+	font-size:20px;
+	padding-top:2px;
+}
+td {
+	border:1px solid black;
+	padding:15px;
+	text-align:center;
+	background-color:#8643D6;
+}
+td:hover{
+	background-color:#7B72D8;
+}
+th{
+	border:1px solid black;
+	padding:15px;
+	text-align:center;
+	background-color:#510FAD;
+}
+
+th:hover{
+	background-color:#6D48D7;
+}
